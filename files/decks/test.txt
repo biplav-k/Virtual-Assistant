@@ -1,0 +1,6 @@
+What are the lawsof thermodynamics?
+
+- The first law, also known as Law of Conservation of Energy, states that energy cannot be created or destroyed in an isolated system.
+- The second law of thermodynamics states that the entropy of any isolated system always increases.
+- The third law of thermodynamics states that the entropy of a system approaches a constant value as the temperature approaches absolute zero.
+
